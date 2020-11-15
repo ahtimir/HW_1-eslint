@@ -1,0 +1,25 @@
+{
+  "name": "hw1_eslint",
+  "version": "1.0.0",
+  "description": "Домашнее задание к лекции «Рабочее окружение» Eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahtimir/HW_1-eslint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahtimir/HW_1-eslint/issues"
+  },
+  "homepage": "https://github.com/ahtimir/HW_1-eslint#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
